@@ -1,0 +1,44 @@
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\18203Proj1.exe
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\18203Proj1.deps.json
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\18203Proj1.runtimeconfig.json
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\18203Proj1.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\18203Proj1.pdb
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.csproj.AssemblyReference.cache
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.AssemblyInfoInputs.cache
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.AssemblyInfo.cs
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\refint\18203Proj1.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.pdb
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.genruntimeconfig.cache
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\ref\18203Proj1.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\obj\Debug\net7.0\18203Proj1.csproj.CopyComplete
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\krist\Downloads\3. godina\SP\18203Proj1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\18203Proj1.exe
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\18203Proj1.deps.json
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\18203Proj1.runtimeconfig.json
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\18203Proj1.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\18203Proj1.pdb
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krist\sysprog\18203Proj1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.csproj.AssemblyReference.cache
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.AssemblyInfoInputs.cache
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.AssemblyInfo.cs
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.csproj.CoreCompileInputs.cache
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.csproj.CopyComplete
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.dll
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\refint\18203Proj1.dll
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.pdb
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\18203Proj1.genruntimeconfig.cache
+C:\Users\krist\sysprog\18203Proj1\obj\Debug\net7.0\ref\18203Proj1.dll

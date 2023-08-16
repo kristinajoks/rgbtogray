@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGP6xuI17ZRm9BZqy7r2gLOuIQfK1pTks6nee69yuxAApks9w+mDK3Y5nmU/TfOKSxNrWMr4xb/5yxt4THPQGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krist\\sysprog\\18203Proj1\\18203Proj1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\aspose.imaging\\23.4.0\\aspose.imaging.23.4.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
